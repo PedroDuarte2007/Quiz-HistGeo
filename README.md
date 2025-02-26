@@ -1,4 +1,6 @@
 <center><b><h1>Quiz Historia e Geografia</b></h1></b></center>
 
-<img src="https://github.com/user-attachments/assets/16978318-86b3-487e-8c54-2aa8778466a6
-" alt="Print Tela de Encerramento">
+<center><h2>Tecnologias Utilizadas</h2></center>
+<p>MIT App Inventor</p>
+<p>.apk</p>
+<p>.aia</p>
